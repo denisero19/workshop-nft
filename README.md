@@ -1,5 +1,5 @@
 # PROJETO Workshop NFT
-Um projeto card NFT comflex, parcontendo figura, título, frase, preço, dias faltando e o nome do criador para telas de computadores e de celulares📲💻
+Um projeto card NFT com flex contendo figura, título, frase, preço, dias faltantes,nome do criador com animação na ilustração para telas de computadores e de celulares📲💻
 
 <img src="./NFT.gif" alt="gif da página do site NFT"> (http://127.0.0.1:5500/)
 
